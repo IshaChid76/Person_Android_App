@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Person</string>
+    <string name="Company"><u>Company</u>.</string>
+    <string name="Address"><u>Address</u>.</string>
+</resources>
